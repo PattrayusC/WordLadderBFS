@@ -2,8 +2,9 @@
 
 A Java program word ladder that had 2 functionality. The first is to solve a word ladder puzzle that begins with two words, the other is to find any word from the input substring.
 
-1.) Solve a word ladder puzzle that begins with two words in .txt by using BFS from JGraphT
-2.) Find a word in .txt from the input string
+1.) Solve a word ladder puzzle that begins with two words in .txt by using BFS from JGraphT.
+
+2.) Find a word in .txt from the input string.
 
 ## Installation
 
