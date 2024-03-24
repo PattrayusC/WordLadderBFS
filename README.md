@@ -1,6 +1,6 @@
 # Word Ladder
 
-A Java program word ladder that had 2 functionality. The first is to solve a word ladder puzzle that begins with two words, the other is to find any word from the input substring.
+A Java program word ladder that had 2 functionality.
 
 1.) Solve a word ladder puzzle that begins with two words in .txt by using BFS from JGraphT.
 
