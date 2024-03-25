@@ -22,3 +22,8 @@ To use JGraphT as a dependency in your project, follow the instructions for your
 There will be an instruction log in the terminal when you run the program.
 
 If you stuck at "Enter data file =". The input would look like this "D:\words.txt" (.txt need to exist in this local drive)
+
+<p align="center">
+  <img src="https://media.tenor.com/52M2P0XtgQUAAAAi/roblox-dance.gif">
+</p>
+<p align="center">Happy Coding!</p>
